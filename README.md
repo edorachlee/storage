@@ -12,4 +12,4 @@ Main Files:
 - mm.{c,h}: C implementations of malloc, free, and realloc with supporting functions
 - memlib.{c,h}: Models the heap and sbrk functions
 
-Development: I implemented my own versions of the memory allocation routines malloc, free, and realloc, along with supporting functions for these routines. Notably, I included a heap checker to verify heap consistency as I dynamically initialized and deleted pointers to memory blocks, and also a coalesce function to efficiently access free memory blocks.
+Development: I implemented my own versions of the memory allocation routines malloc, free, and realloc, along with supporting functions for these routines. Notably, I included a heap checker to verify heap consistency as I dynamically initialized and deleted pointers to memory blocks, and also a coalesce function to efficiently access free memory blocks. Debugging was performed with the gdb tool in combination with breakpoints and assert statements.
