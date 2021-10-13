@@ -9,7 +9,7 @@ Function: This is a C implementation of the dynamic storage operations malloc, f
 
 Usage: Usage functionalities have been removed(see note below). Code is provided mainly as read-only purposes.
 
-**Note: This work was intended as a single-person school lab assignment. My personal work is represented by "mm.c". Any other file does not represent my work. They have all been removed except for "mm.h" and "memlib.{c,h}" which is referenced by "mm.c".**
+Note: Performed as part of school work. Course number and instructor information have been omitted to prevent plagiarism. My personal work is represented by "mm.c". Any other file does not represent my work. They have all been removed except for "mm.h" and "memlib.{c,h}" which is referenced by "mm.c".
 
 Main Files:
 - mm.{c,h}: C implementations of malloc, free, and realloc with supporting functions
