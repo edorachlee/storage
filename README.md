@@ -1,3 +1,6 @@
+# Dynamic Storage Operations
+ A C implementation of dynamic storage operations.
+
 Author: Chang Hi Lee(lee.c@wustl.edu)
 
 Title: Dynamic Memory Allocator
